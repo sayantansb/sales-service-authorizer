@@ -1,0 +1,5 @@
+sales:
+  service:
+    app: sales
+    env: dev
+    token: SGVsbG8gV29ybGQK
